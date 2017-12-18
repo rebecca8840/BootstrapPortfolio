@@ -41,6 +41,11 @@ body {
 	width: 270px;
 }
 
+.navbar-light .navbar-brand {
+	color: white;
+}
+
+
 #navbarNavAltMarkup {
 	height: 100px;
 	text-align: center;
